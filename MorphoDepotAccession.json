@@ -58,7 +58,7 @@
     ],
     "license": [
         "Choose a license:",
-        "CC BY 4.0 (requires attribution, allows commercial usage)"
+        "CC BY-NC 4.0 (requires attribution, non-commercial usage only)"
     ],
     "githubRepoName": [
         "What should the repository in your github account called? This needs to be unique value for your account.",
